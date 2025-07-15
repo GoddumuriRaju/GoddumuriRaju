@@ -6,8 +6,6 @@
 
 - 📫 How to reach me **rajugoddumuri@gmail.com**
 
-- 📄 Know about my experiences [http://bit.ly/3Yl9fMS](https://rb.gy/89ytq)
-
 - ⚡ Fun fact **The biggest adventure you can ever take is to live the life of your dreams**
 
 ### Blogs posts
