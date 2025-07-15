@@ -5,19 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajitharunai" alt="ajitharunai" /></a> </p>
 
-- 🔭 I’m currently Looking For a Software Developer opportunity. 
-
-- 🌱 I’m currently learning **Mern Stack | Deep Learning**
-
-- 👯 I’m looking to collaborate on [OpenAI](https://openai.com/)
-
-- 🤝 I’m looking for help with [ChatGPT](https://chat.openai.com/chat)
-
-- 👨‍💻 All of my projects are available at [https://rb.gy/0o7bl](https://rb.gy/0o7bl)
-
-- 📝 I regularly write articles on [https://medium.com/@rajugoddumuri](https://medium.com/@rajugoddumuri)
-
-- 💬 Ask me about ** AI & ML | Web Development | Git**
 
 - 📫 How to reach me **rajugoddumuri@gmail.com**
 
