@@ -1,1 +1,138 @@
-<h1 align="center">Hi there, I'm Goddumuri Raju 👋</h1><h3 align="center">A DevOps Engineer passionate about Automation, Cloud, and CI/CD 🚀</h3><p align="center"><img src="https://www.google.com/search?q=https://media.giphy.com/media/f3G3v4aadK6a3k72aF/giphy.gif" width="400" alt="DevOps GIF"/></p>👨‍💻 About MeI'm a DevOps Engineer with one year of hands-on experience in building and automating cloud infrastructure and CI/CD pipelines. I am driven by a passion for streamlining development workflows to build scalable and reliable systems. I thrive in collaborative environments and am always excited to learn new technologies.🔭 I’m currently working with multi-cloud environments (AWS, GCP, Azure) and event-driven architecture using Solace PubSub+.🌱 I’m always learning and currently deepening my knowledge of Kubernetes, Terraform, and advanced monitoring tools.👯 I’m looking to collaborate on open-source projects related to automation and cloud infrastructure.💬 Ask me about AWS, Jenkins, Docker, Ansible, or building CI/CD pipelines from scratch.📫 You can reach me at: rajugoddumuri@gmail.com🛠️ My Tech StackCloud Platforms & Virtualization:<p><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/></a><a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="GCP" width="45" height="45"/></a><a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="Azure" width="45" height="45"/></a><a href="https://www.openshift.com/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/openshift/openshift-original-wordmark.svg" alt="OpenShift" width="45" height="45"/></a></p>Containerization & Orchestration:<p><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/></a><a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="45" height="45"/></a></p>CI/CD & Automation:<p><a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="45" height="45"/></a><a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original-wordmark.svg" alt="SonarQube" width="45" height="45"/></a><a href="https://help.sonatype.com/repomanager3" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/nexus/nexus-original-wordmark.svg" alt="Nexus" width="45" height="45"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="45" height="45"/></a></p>Infrastructure as Code & Configuration Management:<p><a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="Terraform" width="45" height="45"/></a><a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg" alt="Ansible" width="45" height="45"/></a></p>Monitoring & Logging:<p><a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/datadog/datadog-original-wordmark.svg" alt="Datadog" width="45" height="45"/></a><a href="https://www.splunk.com/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/splunk/splunk-original-wordmark.svg" alt="Splunk" width="45" height="45"/></a><a href="https://aws.amazon.com/cloudwatch/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" alt="CloudWatch" width="45" height="45"/></a></p>Programming & Scripting:<p><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/></a></p>🏆 My Projects & AchievementsProjectDescriptionTech StackCI/CD Pipeline AutomationA robust CI/CD pipeline to automate the build, test, and deployment process.Jenkins Docker Ansible Kubernetes GitE-Voting System using BlockchainA decentralized and secure voting platform built with a team of three.React.js Solidity Node.js Truffle GanacheAI-Based Life Assistance Chatbot1st Place Winner at the IBM SmartInternz Hackathon. An AI chatbot for public welfare.IBM WatsonX IBM Cloud HTML CSS JavaScript📊 My GitHub Stats<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DGoddumuriRaju%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="GoddumuriRaju's GitHub Stats"/></a><br><br><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DGoddumuriRaju%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Languages"/></a></p><p align="center"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/GoddumuriRaju/GoddumuriRaju/output/github-contribution-grid-snake.svg" alt="snake animation"></p>🔗 Connect with Me<p align="center"><a href="https://www.linkedin.com/in/goddumuri-raju-43a700215/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/></a><a href="mailto:rajugoddumuri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a></p><p align="center"><img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DGoddumuriRaju%26label%3DProfile%2520Visitors%26color%3Dblueviolet%26style%3Dflat-square" alt="Profile Visitors"/></p>
+<h1 align="center">Hi there, I'm Goddumuri Raju 👋</h1>
+<h3 align="center">A DevOps Engineer passionate about Automation, Cloud, and CI/CD 🚀</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kroim/profile-assets/main/devops/devops-cycle-light.svg" width="500" alt="DevOps Cycle"/>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+As a DevOps Engineer with a year of hands-on experience, I specialize in building and automating cloud infrastructure and CI/CD pipelines. I am passionate about streamlining development workflows to create scalable and reliable systems. I thrive in collaborative environments and am always excited to learn new technologies.
+
+- 🛰️ Currently working with multi-cloud environments (**AWS, GCP, Azure**) and event-driven architecture using **Solace PubSub+**.
+- 🌱 Deepening my knowledge in **Kubernetes**, **Terraform**, and advanced **monitoring tools**.
+- 🤝 Looking to collaborate on open-source projects related to automation and cloud infrastructure.
+- 💬 Ask me about: **AWS**, **Jenkins**, **Docker**, **Ansible**, or **CI/CD pipelines**.
+- 📫 How to reach me: [rajugoddumuri@gmail.com](mailto:rajugoddumuri@gmail.com)
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <strong>☁️ Cloud & Virtualization</strong><br><br>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50"/>
+  </a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="GCP" height="50"/>
+  </a>
+  <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="Azure" height="50"/>
+  </a>
+  <a href="https://www.openshift.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openshift/openshift-original-wordmark.svg" alt="OpenShift" height="50"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>📦 Containerization & Orchestration</strong><br><br>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50"/>
+  </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" height="50"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>⚙️ CI/CD & Automation</strong><br><br>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" height="50"/>
+  </a>
+  <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="SonarQube" height="50"/>
+  </a>
+  <a href="https://sonatype.com/products/nexus-repository" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/sonatype-nexus-repository-manager.svg" alt="Nexus" height="50"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" height="50"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>📜 IaC & Configuration Management</strong><br><br>
+  <a href="https://www.terraform.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="Terraform" height="50"/>
+  </a>
+  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg" alt="Ansible" height="50"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>📊 Monitoring & Logging</strong><br><br>
+  <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datadog/datadog-original-wordmark.svg" alt="Datadog" height="50"/>
+  </a>
+  <a href="https://www.splunk.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="Splunk" height="50"/>
+  </a>
+  <a href="https://aws.amazon.com/cloudwatch/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/amazoncloudwatch/FF9900" alt="AWS CloudWatch" height="50"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>💻 Programming & Scripting</strong><br><br>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" height="50"/>
+  </a>
+</p>
+
+---
+
+### 🏆 My Projects & Achievements
+
+| Project | Description | Tech Stack |
+|:--- |:---|:---|
+| **CI/CD Pipeline Automation** | Designed and implemented a robust CI/CD pipeline to automate the build, test, and deployment process, reducing deployment time. | `Jenkins`, `Docker`, `Ansible`, `Kubernetes`, `Git` |
+| **E-Voting System using Blockchain** | A decentralized and secure voting platform built with a team of three, ensuring transparency and integrity of the voting process. | `React.js`, `Solidity`, `Node.js`, `Truffle`, `Ganache` |
+| **AI-Based Life Assistance Chatbot** | 🥇 **Winner at IBM SmartInternz Hackathon.** Developed an AI-powered chatbot to provide public welfare information and assistance. | `IBM WatsonX`, `IBM Cloud`, `HTML`, `CSS`, `JavaScript` |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GoddumuriRaju&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GoddumuriRaju's GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoddumuriRaju&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GoddumuriRaju/GoddumuriRaju/output/github-contribution-grid-snake.svg" alt="snake animation">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GoddumuriRaju&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="Profile Visitors"/>
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/goddumuri-raju-43a700215/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+ </a>
+ <a href="mailto:rajugoddumuri@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+ </a>
+</p>
