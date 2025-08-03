@@ -21,7 +21,7 @@ I'm a DevOps Engineer dedicated to building and maintaining resilient, scalable,
 - 👯 I’m looking to collaborate on **open-source DevOps tools and projects**.
 - 🤔 I’m looking for help with **advanced eBPF for network observability**.
 - 💬 Ask me about **CI/CD, Infrastructure as Code (IaC), Cloud Architecture, or anything related to Docker and K8s**.
-- 📫 How to reach me: `[your-email@provider.com]`
+- 📫 How to reach me: `rajugoddumuri@gmail.com`
 - 😄 Pronouns: He/Him (or your pronouns)
 - ⚡ Fun fact: I believe the best `uptime` is the one you don't have to worry about.
 
@@ -80,7 +80,7 @@ I'm always open to connecting with fellow engineers and tech enthusiasts. Feel f
 
 <p align="left">
   <a href="[your-linkedin-url]" target="_blank">
-    <img src="https://www.linkedin.com/in/goddumuri-raju-43a700215/?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://www.linkedin.com/in/goddumuri-raju-43a700215?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="[your-twitter-url]" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
