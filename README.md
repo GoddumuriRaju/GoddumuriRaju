@@ -60,16 +60,16 @@ These stats automatically update, showing my activity and most-used languages on
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="[Your Name]'s GitHub Stats"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GoddumuriRaju&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Goddumuri Raju's GitHub Stats"/>
   </a>
   <br><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoddumuriRaju&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/[your-github-username]/[your-github-username]/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://raw.githubusercontent.com/GoddumuriRaju/[your-github-username]/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 ---
@@ -80,7 +80,7 @@ I'm always open to connecting with fellow engineers and tech enthusiasts. Feel f
 
 <p align="left">
   <a href="[your-linkedin-url]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://www.linkedin.com/in/goddumuri-raju-43a700215/?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="[your-twitter-url]" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
@@ -93,5 +93,5 @@ I'm always open to connecting with fellow engineers and tech enthusiasts. Feel f
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[your-github-username]&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="Profile Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=GoddumuriRaju&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="Profile Visitors" />
 </p>
